@@ -1,9 +1,9 @@
 ## A Simple 135 Film Hanger
 
 ![filmHanger_1](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmHanger%20(1).jpg)
-![filmHanger_2](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmHanger%20(2).jpg)
+![filmHanger_2](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmHanger%20(4).jpg)
 ![filmHanger_3](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmHanger%20(3).jpg)
-![filmHanger_4](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmHanger%20(4).jpg)
+![filmHanger_4](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmHanger%20(2).jpg)
 
 ### Features:
 - Film hangers with three (3) different size hooks; 25mm, 35mm, & 50mm
