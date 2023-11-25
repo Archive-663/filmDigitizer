@@ -19,6 +19,7 @@
 - 3x M3 x 6mm machine screws (PETG) or self tapping screws (PETG or ABS)
 - 2x M3 x 6mm set screw
 - 1x 1/4-20 x 1/2" button head screw for Raleno LED Panel Clamp
+- [Raleno PLV-S116 CAMERA LIGHT LED Panel](https://www.amazon.com/gp/product/B087CZ85GV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
 
 ### What would be helpful:
 - M2.5 or M2.6 drill for the M3 screws.
