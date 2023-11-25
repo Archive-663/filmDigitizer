@@ -1,7 +1,7 @@
 ## A Simple 135 Film Carrier
 
 ![filmCarrier_1](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmDigitizer%20(2).jpg)
-![filmCarrier_2](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmDigitizer%20(3).jpg)
+![filmCarrier_2](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmDigitizer%20(5).jpg)
 ![filmCarrier_5](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmDigitizer%20(6).jpg)
 ![filmCarrier_6](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmDigitizer%20(7).jpg)
 
@@ -40,6 +40,6 @@ Please view the _assembly.stp file for help in parts orientation. If you do not 
 <a href='https://ko-fi.com/P5P3MHMSF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ### Sample:
-![filmCarrier_3](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmDigitizer%20(4).jpg)
-![filmCarrier_4](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmDigitizer%20(5).jpg)
+![filmCarrier_3](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmDigitizer%20(3).jpg)
+![filmCarrier_4](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmDigitizer%20(4).jpg)
 
