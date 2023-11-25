@@ -2,8 +2,6 @@
 
 ![filmCarrier_1](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmDigitizer%20(2).jpg)
 ![filmCarrier_2](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmDigitizer%20(3).jpg)
-![filmCarrier_3](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmDigitizer%20(4).jpg)
-![filmCarrier_4](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmDigitizer%20(5).jpg)
 ![filmCarrier_5](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmDigitizer%20(6).jpg)
 ![filmCarrier_6](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmDigitizer%20(7).jpg)
 
@@ -26,13 +24,6 @@
 - M2.5 or M2.6 drill for the M3 screws.
 - M3 tap
 
-### Helpful Links:
-- [Kodak FunSaver Disassembly](https://www.youtube.com/watch?v=eMyq5sUIDkU)
-
-- [Kodak FunSaver Lens Removal](https://www.youtube.com/watch?v=mniP1P2PrpM)
-
-- [Kodak FunSaver Lens Adapter Assembly](https://www.youtube.com/watch?v=7Ed5-oDCAb8)
-
 ### Printing help:
 I print with PETG because it's pretty easy to set up with and dial in. If you want to use something else, go for it. I'd stay away from PLA because it's not the best in heat and against solvents. 
 
@@ -47,4 +38,8 @@ Please view the _assembly.stp file for help in parts orientation. If you do not 
 
 ### Help support Archive 663 with a dontation or monthly sub
 <a href='https://ko-fi.com/P5P3MHMSF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+### Sample:
+![filmCarrier_3](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmDigitizer%20(4).jpg)
+![filmCarrier_4](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmDigitizer%20(5).jpg)
 
