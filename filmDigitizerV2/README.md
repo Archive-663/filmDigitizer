@@ -65,6 +65,6 @@ Please view the _assembly.stp file for help in parts orientation. If you do not 
 <a href='https://ko-fi.com/P5P3MHMSF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ### Sample:
-![filmCarrier_3](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmDigitizer%20(3).jpg)
-![filmCarrier_4](https://github.com/Archive-663/filmDigitizer/blob/main/ASSETS/filmDigitizer%20(4).jpg)
+![sample_negative10](https://github.com/Archive-663/filmDigitizer/blob/main/filmDigitizerV2/ASSETS/PHOTO/SAMPLE/canonFTB_mamiya55mm_negative%20(10).jpg)
+![sample_positive10](https://github.com/Archive-663/filmDigitizer/blob/main/filmDigitizerV2/ASSETS/PHOTO/SAMPLE/canonFTB_mamiya55mm_NLE%20(10).jpg)
 
