@@ -8,6 +8,13 @@
 ![filmCarrierV2_1](https://github.com/Archive-663/filmDigitizer/blob/main/filmDigitizerV2/ASSETS/PHOTO/PRODUCT/filmDigitizerV2%20(1).jpg)
 ![filmCarrierV2_2](https://github.com/Archive-663/filmDigitizer/blob/main/filmDigitizerV2/ASSETS/PHOTO/PRODUCT/filmDigitizerV2%20(2).jpg)
 
+### In this repository:
+- [Film Carrier V2](https://github.com/Archive-663/filmDigitizer/tree/main/filmDigitizerV2/filmCarrierV2)
+- [Expieramental Light Box](https://github.com/Archive-663/filmDigitizer/tree/main/filmDigitizerV2/lightBox)
+- [Rokinon 100mm Cage](https://github.com/Archive-663/filmDigitizer/tree/main/filmDigitizerV2/rokinonCage)
+
+### Accompanying video:
+<a href='https://www.youtube.com/watch?v=AyjEh8ApS5Q' target='_blank'>006 / / the one where i will just sit here and let it take me away too</a>
 
 ### Features:
 - Hood & Filter Thread mounted focus tubes availble for the Rokinon 100mm f2.8 Macro (Full Frame camera)
